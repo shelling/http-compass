@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/HTTP-Compass.t
+lib/HTTP/Compass.pm
