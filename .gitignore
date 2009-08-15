@@ -1,0 +1,8 @@
+*~
+*.swp
+META.yml
+Makefile
+Makefile.old
+inc/
+blib/
+.build
